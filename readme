@@ -10,4 +10,11 @@ Hello Reader !
                         RandomForestClassifier,
                         DecisionTreeClassifier
   
-  - 
+  - Dataset named 'text' is provided.
+  
+  - I have defined functions namely : ngram,create_feature  
+                                      and convert_label
+  - I have done feature extraction using tfid Vectorizer and
+    sklearn.
+    
+  - Lastly, the emotions are depicted in the form of emojis too. 
