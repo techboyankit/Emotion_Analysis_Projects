@@ -1,1 +1,13 @@
-Thank You !
+Hello Reader !
+
+* Here I have shown two Deep Learning projects which contain the
+  model of detecting and analyzing human emotions and sentiments from
+  given texts using NPL Algorithm.
+  
+* Regarding text.ipynb file,I have implemented the folowing :-
+  - Modules/Libraries : re,Counter,train_test_split,
+                        accuracy_score,SVC,LinearSVC,
+                        RandomForestClassifier,
+                        DecisionTreeClassifier
+  
+  - 
