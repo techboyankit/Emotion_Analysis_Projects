@@ -14,7 +14,26 @@ Hello Reader !
   
   - I have defined functions namely : ngram,create_feature  
                                       and convert_label
-  - I have done feature extraction using tfid Vectorizer and
+  - I have done feature extraction using TFIDF Vectorizer and
     sklearn.
     
   - Lastly, the emotions are depicted in the form of emojis too. 
+
+
+* Regarding tweet_emotions file, I have implemented the following ideas :-
+  - NLTK library.
+  
+  - Sklearn library for feature extraction and encoding-decoding
+    output labels with the help of Label Encoder,TFIDF Vectorizer
+    and Count Vectorizer.
+  
+  - Concept of stop words,Lemmatization and Tokenization.
+  
+  - Random Forest Classsifier for logistic and linear regression.
+  
+  - Vader Sentiment.
+  
+  
+* Both the specified projects have been done in Jupyter Notebook tool
+  in Python language.
+
